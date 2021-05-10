@@ -1,0 +1,30 @@
+PODS:
+  - Flutter (1.0.0)
+  - OneSignal (3.4.3)
+  - onesignal_flutter (3.0.0-beta3):
+    - Flutter
+    - OneSignal (= 3.4.3)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - OneSignal (< 4.0, >= 3.0.0)
+  - onesignal_flutter (from `.symlinks/plugins/onesignal_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - OneSignal
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  onesignal_flutter:
+    :path: ".symlinks/plugins/onesignal_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  OneSignal: e4dfb1912410f302dc9661ce98fc829f6c18ff6a
+  onesignal_flutter: d7e8b1b5058f8ad662c96b96794221e533d38144
+
+PODFILE CHECKSUM: 1c5a263a4574bf195440f1600feabcf2e2879c91
+
+COCOAPODS: 1.10.1
